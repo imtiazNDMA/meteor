@@ -1,8 +1,6 @@
 # M.E.T.E.O.R 
 **Meteorological Environment Tracking, Extraction, and Observation Resource**
 
-![GUI Screenshot](screenshot.png) <!-- Add a screenshot later -->
-
 A modern Python GUI application for accessing and analyzing meteorological data from various sources. Built with Tkinter and powered by Meteostat APIs.
 
 ## Features
